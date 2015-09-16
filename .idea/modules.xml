@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SimpleApp.iml" filepath="$PROJECT_DIR$/SimpleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleAppGit.iml" filepath="$PROJECT_DIR$/SimpleAppGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdom-2.0.5/jdom-2.0.5.iml" filepath="$PROJECT_DIR$/jdom-2.0.5/jdom-2.0.5.iml" />
     </modules>
